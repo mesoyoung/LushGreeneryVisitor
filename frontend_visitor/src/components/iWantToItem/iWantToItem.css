@@ -1,0 +1,30 @@
+.iWantToItem {
+    padding: 1em;
+    margin-bottom: 2em;
+    margin-right: 2em;
+    width: auto;
+}
+
+
+.linkStyle{
+    text-decoration: none;
+    border-radius: 0.5em;
+    color: black;
+    
+    padding: 1em;
+    flex-wrap: wrap;
+    text-align: center;
+    background-color: greenyellow;
+    
+    width: auto;
+}
+
+
+
+.linkStyle:hover {
+    color: white;
+    background-color: green;
+}
+
+
+

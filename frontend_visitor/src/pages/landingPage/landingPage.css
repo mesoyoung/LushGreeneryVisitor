@@ -1,0 +1,57 @@
+.landingPage{
+    width: auto;    
+    text-align: center;
+    position: relative;
+}
+
+
+
+.lushGreenery{
+    margin-top: 5%;
+    font-size: 8em;
+    font-weight: bold;
+    color: seagreen;
+    width: auto;
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    font-size: 4em;
+    margin-top: 5%;
+    margin-bottom: 10%;
+}
+
+
+.insurance{
+    color: black;
+    padding: auto;
+    width: auto;
+}
+
+
+.simplified{
+  background: -webkit-linear-gradient(rgb(160, 90, 90), rgb(230, 190, 190));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: auto;
+  padding: auto;
+}
+
+
+
+
+.findOutMore{
+    text-decoration: none;
+    color: white;
+    background: -webkit-linear-gradient(rgb(160, 90, 90), rgb(216, 178, 178));
+    border-radius: 1em;
+    padding: 0.3em 1em;
+    font-size: 2em;  
+}
+
+.findOutMore:hover{
+    font-size: 2.5em;
+}

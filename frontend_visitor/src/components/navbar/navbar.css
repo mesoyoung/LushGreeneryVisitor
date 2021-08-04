@@ -1,0 +1,52 @@
+/* Navbar consisting og Logo and Nav Menu */
+.nav {
+background: linear-gradient(90deg, rgb(224, 193, 193) 0%, rgb(187, 99, 99) 100%);
+height: 5em;
+width: auto;
+display: flex;
+align-items: center;
+font-size: 1.2rem;
+position: sticky;
+z-index: 999;
+}
+
+
+/* Nav Button */
+.navBtn {
+  color: #000000;
+  text-decoration: none;
+  padding: 0 1.5em;
+  height: auto;
+  cursor: pointer;
+
+}
+
+.navBtn:hover {
+    color: #ffffff;
+}
+
+
+
+/* Nav Menu which include all Links */
+.navMenu {
+  display: flex;
+  width: 70%;
+  justify-content:flex-end;
+}
+
+
+
+
+/* logo */
+.logo {
+ width: 30%;  
+ padding: 0 1.5em;
+ justify-content:flex-start;
+}
+
+.logoBtn{
+  color: seagreen;
+ text-decoration: none;
+ font-size: 1.5em;
+ font-weight: bold;
+}

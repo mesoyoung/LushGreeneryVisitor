@@ -1,0 +1,14 @@
+.header{
+text-align: center;
+margin-top: 1.5em;
+font-size: 2em;
+margin-bottom: 1em;
+}
+
+.iWantToUL{
+   display: flex;
+   flex-wrap: wrap;
+   list-style-type: none;
+   justify-content: center;
+}
+

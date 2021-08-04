@@ -1,0 +1,7 @@
+.bg {
+    background-image: url("./Images/bg_insurance.jpg");
+  background-position: top;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
