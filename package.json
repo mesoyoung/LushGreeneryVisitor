@@ -1,6 +1,10 @@
 {
+  
   "dependencies": {
     "bcrypt": "^5.0.1",
     "start": "^5.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
